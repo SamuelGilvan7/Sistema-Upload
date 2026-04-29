@@ -55,8 +55,9 @@ http://localhost/sistema-upload
 
 ⚠️ Observações
 
-A pasta files/ precisa existir
-O PHP precisa ter permissão para gravar arquivos
+👉 A pasta files/ precisa existir
+
+👉 O PHP precisa ter permissão para gravar arquivos
 
 👨‍💻 Autor
 
