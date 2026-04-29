@@ -43,3 +43,24 @@ sistema-upload/
 
 ```bash
 git clone https://github.com/seu-usuario/sistema-upload.git
+```
+
+2.Coloque o projeto no servidor local (XAMPP, WAMP ou Laragon)
+
+3. Acesse no navegador:
+   
+```
+http://localhost/sistema-upload
+```
+
+⚠️ Observações
+
+A pasta files/ precisa existir
+O PHP precisa ter permissão para gravar arquivos
+
+👨‍💻 Autor
+
+Samuel Gilvan  
+
+
+
