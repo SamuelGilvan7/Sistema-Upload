@@ -1,0 +1,9 @@
+# Ignorar pasta de uploads
+files/
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
