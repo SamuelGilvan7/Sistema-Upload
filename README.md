@@ -29,7 +29,7 @@ sistema-upload/
 │
 ├── index.php
 ├── style.css
-├── files/ (pasta onde ficam os uploads)
+├── files/ # pasta onde ficam os uploads (ignorada no git)
 └── README.md
 
 ```
@@ -58,6 +58,8 @@ http://localhost/sistema-upload
 👉 A pasta files/ precisa existir
 
 👉 O PHP precisa ter permissão para gravar arquivos
+
+👉 A pasta files/ não é enviada para o Git (uso de .gitignore)
 
 👨‍💻 Autor
 
